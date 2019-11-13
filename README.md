@@ -1,3 +1,3 @@
 # Demo-Merge-Conflict
 
-by Komal Patel
+A simple demo, by Komal Patel, for DMIT-2018
